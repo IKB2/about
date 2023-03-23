@@ -14,4 +14,5 @@ VEX IQ,競プロ,LEGO EV3などで競技に参加させてしている学生コ�
 - EV3
 - VEX IQ
 ## contact
+メンバー募集です　参加したい方は↓
 team.ikb2@gmail.com
